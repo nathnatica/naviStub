@@ -1,0 +1,9 @@
+server:
+  port: 18787
+  context-path: /navistub
+logging:
+  level:
+    com.test: DEBUG
+    root: INFO
+items:
+  config_dir: ./items

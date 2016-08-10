@@ -1,0 +1,5 @@
+item_code:990501
+name:レギンスジーンズ
+price:
+count:33
+average:4.3
